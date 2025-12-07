@@ -1,11 +1,11 @@
-# busy.b: 
+# 🐝 busy.b: 
 ## A Plant-Lover's Productivity Tracker
 
 ### Link: https://youtu.be/CJe45e0EMPI
 
 ![busy.b](static/busyb.png)
 
-## Description
+## 🌸 Description
 busy.b is a productivity tracker that makes completing goals and mini subtasks fun and easy, with a gamified, plant-themed twist! Add 3-part goals, complete subtasks, and watch your progress unfold through different stages of plant growth in your personal garden! 
 
 This app was developed using VisualStudioCode, built in Python 3 using the Flask framework, SQLite3 to manage the database, and HTML/CSS for the UI.
@@ -30,7 +30,7 @@ The garden is a viewable collection of all current plant tasks, ordered chronolo
 ### Errors
 Errors route through apology.html page, with a short description of the issue at hand.
 
-## Dependencies
+## ✏️ Dependencies
 The app relies on: cs50, Flask, Flask-Session. These are listed in requirements.txt for easy installation.
 
 To install, download and unzip the project folder. Ensure **Python 3.10+** is installed. Install dependencies in requirements.txt, and run the app using `flask run --debug` or `python app.py`.
